@@ -1,3 +1,8 @@
+# Add-on wrapper for EasyBPY
+
+This repo just adds an `__init__.py` to allow EasyBPY users to install it via an add-on.
+See Curtis Holt's [original EasyBPY repo](https://github.com/curtisjamesholt/EasyBPY) for updates.
+
 # EasyBPY
 A module to simplify the use of the Blender Python API.
 
