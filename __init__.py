@@ -9,7 +9,7 @@ ADDON_NAME = (
 )
 
 bl_info = {
-    "name": "EasyBPY v0.1.8",
+    "name": "EasyBPY v0.2.0",
     "author": "Curtis Holt",
     "version": (0, 2, 0),
     "blender": (2, 83, 0),
