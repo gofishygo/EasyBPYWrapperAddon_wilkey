@@ -1,3 +1,17 @@
+=== 0.2.0 ===
+
+[ Curtis Holt ]
+- Added remove_suffix_from_name.
+- Added remove_suffix convenience function.
+- Added return value to select_objects, passing list of objects.
+- Added return value to select_objects_containing, passing list of objects.
+
+=== 0.1.9 ===
+
+[ Curtis Holt ]
+- Added file exceptions to suffix_convert_dataset to prevent issue with exotic file names.
+- Added trim_view_layer_suffixes
+
 === 0.1.8 ===
 
 [ Curtis Holt ]
