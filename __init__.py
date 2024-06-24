@@ -3,19 +3,19 @@ import sys
 
 ADDON_FOLDER_PATH = os.path.dirname(__file__)
 VERSION = (0, 2, 0)
-MODULE_NAME = "easybpy"
+MODULE_NAME = "IRE_collision_helper_4.py"
 ADDON_NAME = (
-    f"EasyBPY v{VERSION[0]}.{VERSION[1]}.{VERSION[2]}"
+    f"IRE_collision_helper v{VERSION[0]}.{VERSION[4]}.{VERSION[2]}"
 )
 
 bl_info = {
-    "name": "EasyBPY v0.2.0",
-    "author": "Curtis Holt",
-    "version": (0, 2, 0),
-    "blender": (2, 83, 0),
-    "description": "A module to simplify the use of the Blender Python API.",
+    "name": "IRE collider ",
+    "author": "Wilkey",
+    "version": (0, 0, 1),
+    "blender": (4, 1, 0),
+    "location": "3D Viewport > Sidebar > My Custom Panel category",
+    "description": "for use when adding the custom properties to collision objects for export in IRE  made in 4.1 probably okay for older version ",
     "category": "Development",
-    "doc_url": "https://curtisholt.online/easybpy",
 }
 
 
